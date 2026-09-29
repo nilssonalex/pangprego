@@ -20,7 +20,9 @@
     <title>Pang Prego restored</title>
     <link>https://www.sverigesradio.se/pang-prego</link>
     <description><![CDATA[Humorprogram där varje program handlade om en lyssnare. Från 2007-2010. Pang Prego släpper inte längre nya avsnitt. <a href="https://sverigesradio.se/play/program/2782?utm_source=thirdparty&utm_medium=rss&utm_campaign=program_pang-prego">Lyssna på alla avsnitt i Sveriges Radios app.</a>
-Ansvarig utgivare: Anne Sseruwagi]]></description>
+Ansvarig utgivare: Anne Sseruwagi
+
+Spegel från https://github.com/nilssonalex/pangprego]]></description>
     <language>sv</language>
     <copyright>Copyright Sveriges Radio 2026. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">se</media:restriction>
