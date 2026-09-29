@@ -4,3 +4,5 @@ Sveriges Radio har tagit bort det gamla poddflödet och ersatt det med ett nytt 
 ```
 https://raw.githubusercontent.com/nilssonalex/pangprego/refs/heads/main/feed.xml
 ```
+
+![Pang Prego](pangprego.gif)
