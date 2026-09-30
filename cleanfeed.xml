@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pang Prego restored</title>
     <link>https://example.com/pangprego</link>
     <description>Pang Prego restored</description>
     <language>sv</language>
+    <atom:link href="https://github.com/nilssonalex/pangprego/raw/refs/heads/main/cleanfeed.xml" rel="self" type="application/rss+xml" />
+    <itunes:image href="https://static-cdn.sr.se/images/2782/2937970_512_512.jpg?preset=api-itunes-presentation-image" />
+    <itunes:category text="Comedy" />
     <itunes:explicit>no</itunes:explicit>
     <item>
       <title>Pang Prego 2007-04-22 - Amanda Roos program</title>
